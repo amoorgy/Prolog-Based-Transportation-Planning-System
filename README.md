@@ -117,16 +117,6 @@ This Prolog project lays the groundwork for managing student schedules and trans
 
 ---
 
-### License
-This project is licensed under the MIT License.
-
----
-
-### Authors
-- Team_X
-
----
-
 ### Acknowledgments
 - Special thanks to the Prolog community for their support and resources.
 
